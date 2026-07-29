@@ -23,8 +23,7 @@ An AI Dashboard that predict Solar power every hour with 90%+ accuracy.
 Live App: https://unshakable-energy-ai-mwanza.streamlit.app
 
 ##Screenshots
-![Alert](Screenshot_20260728-091401.png)
-![Dashboard](Screenshot_20260728-083742.png)
+![Alert+Dashboard](Screenshot_20260728-091401.png)
 ![Raman](Screenshot_202607228-083930.png)
 ## Contact
 **Seleman Maganga Michael**

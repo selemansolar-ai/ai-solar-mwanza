@@ -25,7 +25,7 @@ Live App: https://unshakable-energy-ai-mwanza.streamlit.app
 ##Screenshots
 ![Alert](Screenshot_20260728-091401.png)
 ![Dashboard](Screenshot_20260728-083742.png)
-![Prediction](Screenshot_202607228-08390.png)
+![Raman](Screenshot_202607228-083930.png)
 ## Contact
 **Seleman Maganga Michael**
 AI Solar Engineer - Mwanza

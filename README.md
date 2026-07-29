@@ -15,10 +15,17 @@ An AI Dashboard that predict Solar power every hour with 90%+ accuracy.
 - **24 Hours Prediction**: JUU, CHINI, SIFURI.
 
 ## Demo 
-Watch 45s Demo Video:[screen-20260728-165255~3.MP4]
+*Watch 45s Demo Video*:https://youtube.com/shorts/jMhY_vOQWs4?si=Sn5Lf2Hf89iup3gj
+
+## Live Website
+**Dashboard Link**: https://selemansolar-ai.github.io/ai-solar-mwanza
 
 Live App: https://unshakable-energy-ai-mwanza.streamlit.app
 
+##Screenshots
+![Alert](Screenshot_20260728-091401.png)
+![Dashboard](Screenshot_20260728-083742.png)
+![Prediction](Screenshot_202607228-08390.png)
 ## Contact
 **Seleman Maganga Michael**
 AI Solar Engineer - Mwanza

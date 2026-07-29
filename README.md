@@ -23,13 +23,15 @@ An AI Dashboard that predict Solar power every hour with 90%+ accuracy.
 Live App: https://unshakable-energy-ai-mwanza.streamlit.app
 
 ##Screenshots
-![Alert+Dashboard](Screenshot_20260728-091401.png)
+![Alert](Screenshot_20260728-091401.png)
 ![Prediction](Screenshot_20260729-142920.png)
 ![Raman](Screenshot_20260729-120145.png)
+
 ## Contact
 **Seleman Maganga Michael**
 AI Solar Engineer - Mwanza
 Email: magangamichaelseleman@gmail.com
+
 phone: 0775049026
 
 *Built with python, Azure AI Streamlit*

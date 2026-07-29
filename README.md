@@ -34,4 +34,4 @@ Email: magangamichaelseleman@gmail.com
 
 phone: 0775049026
 
-*Built with python, Azure AI Streamlit*
+*Built with python, Azure AI and Streamlit*

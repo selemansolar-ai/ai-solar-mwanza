@@ -15,7 +15,7 @@ An AI Dashboard that predict Solar power every hour with 90%+ accuracy.
 - **24 Hours Prediction**: JUU, CHINI, SIFURI.
 
 ## Demo 
-Watch 45s Demo Video:[.MP4
+Watch 45s Demo Video:[.MP4]
 
 Live App: https://unshakable-energy-ai-mwanza.streamlit.app
 

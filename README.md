@@ -1,4 +1,4 @@
-# AI Solar Prediction App - Mwanza, Tanzania
+strugglesglesSolar Prediction App - Mwanza, Tanzania
 
 Self - taught AI Engineer solving power prediction for TANESCO Lake Zone.
 

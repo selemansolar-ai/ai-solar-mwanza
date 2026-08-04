@@ -1,9 +1,9 @@
 AI Solar Prediction App - Mwanza, Tanzania
 
-Self - taught AI Engineer solving power prediction for TANESCO Lake Zone.
+Self - taught AI Engineer solving power prediction for Mwanza.
 
 ## The Problem
-TANESCO struggles to predict how many KW solar will produce tomorrow,this causing blackout.
+Solar companies struggles to predict how many KW solar will produce tomorrow,this causing blackout.
 
 ## The Solution 
 An AI Dashboard that predict Solar power every hour with 90%+ accuracy.

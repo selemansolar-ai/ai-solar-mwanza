@@ -1,4 +1,4 @@
-AI Solar Prediction App - Mwanza, Tanzania
+# AI SOLAR POWER PREDICTION+MVUA FORECAST - Mwanza, Tanzania
 
 Self - taught AI Engineer solving power prediction for Mwanza.
 
